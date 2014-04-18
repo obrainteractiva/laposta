@@ -745,7 +745,121 @@
     </section>
     <div class="center_module">
         <div class="col col_5">
-            
+            <section class="programas">
+                <h4 class="tit">Programas la Posta!</h4>
+                <div class="tabs">
+                    <ul>
+                        <li><a href="#fragment-1">Últimos</a></li>
+                        <li><a href="#fragment-2">Más escuchados</a></li>
+                    </ul>
+                    <div id="fragment-1">
+                        <div class="scroll-pane">
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div id="fragment-2">
+                        <div class="scroll-pane">
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                            <article class="programa">
+                                <div class="icon"></div>
+                                <div class="info">
+                                    <a href="#"><h3 class="tit">Programas de Septiembre de La Posta!</h3></a>
+                                    <a class="escuchar" href="#"><p>Escuchar</p><span class="icon"></span></a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
         <div class="col col_4 g_nota_3 a">
             <article class="nota">
@@ -841,7 +955,7 @@
                 </a>
             </article>
         </div>
-        <div class="col col_4">
+        <div class="col col_4 no_margin_right">
             <div class="fb_box">
                 <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFacebookDevelopers&amp;width=300&amp;height=320&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=false&amp;appId=416541211738245" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:320px;" allowTransparency="true"></iframe>
             </div>

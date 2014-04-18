@@ -151,7 +151,34 @@ header > .center_module:nth-of-type(1){padding: 0;}
 .salud .nota{margin-bottom: 35px;}
 
 /*deportes*/
-.deportes{background-color: #2e2e2e;display: inline-block;width: 100%;padding: 20px;}
+.deportes{background-color: #2e2e2e;display: inline-block;width: 100%;padding: 20px;margin-bottom: 25px;}
+
+/*programas*/
+.programas{background-color: rgb(255, 39, 39);padding: 17px;padding-bottom: 11px;}
+.programas .tit{color: #ffffff;text-transform: uppercase;font-size: 25px;line-height: 22px;margin-bottom: 15px;}
+.programas .ui-tabs{border: 0;background: none;padding: 0;}
+.programas .ui-tabs-nav{border: 0;background: none;padding: 0;margin-bottom: 10px;}
+.programas .ui-tabs .ui-tabs-nav li{border: 0;background: none;padding: 0;margin: 0;margin-right: 44px;}
+.programas .ui-tabs .ui-tabs-nav li:last-child{margin-right: 0;}
+.programas .ui-tabs .ui-tabs-nav li a{color: #ffffff;text-transform: uppercase;font-size: 18px;line-height: 22px;font-weight: 600;padding: 0;}
+.programas .ui-tabs .ui-tabs-nav .ui-state-active a{border-bottom: 5px solid #ffffff;}
+.programas .ui-tabs .ui-tabs-panel{width: 100%;padding: 0;display: inline-block;}
+.programas .programa{float: left;display: inline-block;width: 100%;margin-bottom: 7px;background-color: rgb(255, 77, 77);padding: 12px 8px;padding-bottom: 10px;padding-right: 0;}
+.programas .programa:last-child{margin-bottom: 0;}
+.programas .programa .icon{margin-right: 5px;float: left;background-image: url("../img/sprites.png");background-repeat: no-repeat;background-position: -239px 0px;display: inline-block;position: relative;top: 0px;height: 63px;width: 63px;}
+.programas .programa .info{float: left;width: 72%;display: inline-block;}
+.programas .programa .tit{margin: 0;font-size: 17px;text-transform: none;line-height: 18px;margin-bottom: 8px;}
+.programas .programa .escuchar{color: #ffffff;text-transform: uppercase;font-size: 14px;font-weight: 900;}
+.programas .programa .escuchar p{display: inline-block;float: left;}
+.programas .programa .escuchar .icon{float: left;background-image: url("../img/sprites.png");background-repeat: no-repeat;background-position: -298px -83px;display: inline-block;position: relative;top: -1px;height: 21px;width: 21px;}
+
+/*scrollpane*/
+.scroll-pane{width: 290px;height: 463px;overflow: auto;}
+.scroll-pane .jspVerticalBar {width: 6px;}
+.scroll-pane .jspVerticalBar .jspTrack {background: #FFF;}
+.scroll-pane .jspVerticalBar .jspDrag {background: #000002;}
+/*.scroll-pane .jspPane{width: 295px !important;}
+.scroll-pane .jspVerticalBar {right: -12px;}*/
 
 /*especial*/
 .especial{margin-top: 20px;}

@@ -179,6 +179,15 @@
         
         <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-ui.min.js"><\/script>')</script> 
+
+        <!-- styles needed by jScrollPane -->
+        <link type="text/css" href="js/scrollpane/jquery.jscrollpane.css" rel="stylesheet" media="all" />
+        <!-- the mousewheel plugin - optional to provide mousewheel support -->
+        <script type="text/javascript" src="js/scrollpane/jquery.mousewheel.js"></script>
+        <!-- the mwheelIntent plugin - optional to provide mwheelIntent -->
+        <script type="text/javascript" src="js/scrollpane/mwheelIntent.js"></script>
+        <!-- the jScrollPane script -->
+        <script type="text/javascript" src="js/scrollpane/jquery.jscrollpane.min.js"></script>
         
         <script src="js/main.js"></script>
     </body>
