@@ -749,8 +749,8 @@
                 <h4 class="tit">Programas la Posta!</h4>
                 <div class="tabs">
                     <ul>
-                        <li><a href="#fragment-1">Últimos</a></li>
-                        <li><a href="#fragment-2">Más escuchados</a></li>
+                        <li><a href="#fragment-1">Últimos</a><span class="flecha"></span></li>
+                        <li><a href="#fragment-2">Más escuchados</a><span class="flecha"></span></li>
                     </ul>
                     <div id="fragment-1">
                         <div class="scroll-pane">
